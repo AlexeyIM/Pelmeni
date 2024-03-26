@@ -6,5 +6,6 @@ int main()
 {
     setlocale(0, "");
     int p, t, at, qp, qt, qf;
-    cout << "Введите\n";
+    cout << "Введите \n";
+    cin >> p >> t >> at >> qp >> qt >> qf;
 }
