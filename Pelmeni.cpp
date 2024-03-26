@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     setlocale(0, "");
-    int p, t, at, qp, qt, qf, Qp, np;
+    int p, t, at, qp, qt, qf, Qp, np, Qt, nt, Qf, nf, qf, qt, at;
     cout << "Введите \n";
     cin >> p >> t >> at >> qp >> qt >> qf;
     ///
