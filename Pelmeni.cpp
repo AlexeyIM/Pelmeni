@@ -8,10 +8,9 @@ int main()
     int p, t, at, qp, qt, qf, Qp, np;
     cout << "Введите \n";
     cin >> p >> t >> at >> qp >> qt >> qf;
+    ///
     Qp = p / (2 * t);
     np = Qp / qp;
-    ///
-     
     ///
     Qt = at * Qp;
     nt = Qt / qt;
